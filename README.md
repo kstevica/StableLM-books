@@ -7,7 +7,7 @@ This repository DOES NOT CONTAIN StableLM-alpha weights, download them here:
 - 3B model, good for 16 GB (use_halving = True) and 24 GB GPUs, [download](https://huggingface.co/stabilityai/stablelm-base-alpha-3b/tree/main)
 - 7B model, good for 24 GB (use_halving = True) and more powerful GPUs [download](https://huggingface.co/stabilityai/stablelm-base-alpha-7b)
 
-If you do not own top consumer GPUs (April 2023), rent a machine at vast.io. RTX 3090 is less then $0.30 per hour and RTX 4090 is $0.45-$0.70 per hour. Training time for 15 MB of raw text (70 MB JSON of fake prompts) takes 4-5 hours on RTX 4090.
+If you do not own top consumer GPUs (April 2023), rent a machine at vast.io. RTX 3090 costs less then $0.30 per hour and RTX 4090 costs $0.45-$0.70 per hour. Training time for 15 MB of raw text (70 MB JSON of fake prompts) takes 4-5 hours on RTX 4090.
 
 ## Quickstart
 
